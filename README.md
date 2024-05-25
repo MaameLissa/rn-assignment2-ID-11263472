@@ -1,4 +1,4 @@
-(https://github.com/MaameLissa/rn-assignment2-ID-11263472/blob/5fd5354d246f0137bf815f292894f54f7cb3302b/Muse/assets/Screenshot.png)
+![Screenshot](Screenshot.png)
 
 <hr>Task Description<hr>
 
